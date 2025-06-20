@@ -35,7 +35,7 @@ Implementar barreiras de controle por meio de conferências duplas (administrati
 
 ## 🔁 Fluxograma do Processo
 
-![Fluxograma de Triagem](./assets/fluxograma-triagem.png)
+![Fluxograma de Triagem]([./assets/fluxograma-triagem.png](https://www.mermaidchart.com/app/projects/fff3c660-4ecc-4270-8a97-5955a8208c2b/diagrams/71908550-9f97-4863-a7d6-852a1f3bb325/version/v0.1/edit))
 
 > O fluxograma acima representa visualmente todas as etapas de controle, reforçando os pontos críticos de verificação antes da liberação dos casos.
 
